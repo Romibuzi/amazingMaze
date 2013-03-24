@@ -1,7 +1,5 @@
 amazingMaze
 ===========
-Fusion algorithm used to create and solve the maze
+Algorithme de fusion utilisé pour créer et résoudre le labyrinthe
 
-
-
-Demo at http://amazingmaze.etuwebdev.fr/
+Démo sur : http://amazingmaze.etuwebdev.fr/
