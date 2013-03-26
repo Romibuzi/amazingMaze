@@ -2,4 +2,6 @@ amazingMaze
 ===========
 Algorithme de fusion utilisé pour créer et résoudre le labyrinthe
 
-Démo sur : http://amazingmaze.etuwebdev.fr/
+Demo at : http://amazingmaze.etuwebdev.fr/
+
+Auteurs : Romain ARDIET et Franck GORIN
